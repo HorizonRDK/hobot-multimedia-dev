@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "postinst start"
+exit 0
+
